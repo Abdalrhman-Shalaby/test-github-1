@@ -1,5 +1,6 @@
-console.console.log("Abdalrhman ");
-console.console.log("ibrahim ");
-console.console.log("Aml ");
-console.console.log("omar");
+console.log("Abdalrhman ");
+console.log("ibrahim ");
+console.log("Aml ");
+console.log("omar");
+console.log("anas")
 
