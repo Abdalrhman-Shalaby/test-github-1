@@ -1,3 +1,2 @@
-console.log("Abdalrhman ");
-console.log("fjkjkj");
-console.log("hello body");
+console.console.log("Abdalrhman ");
+console.console.log("Abdalrhman ");
